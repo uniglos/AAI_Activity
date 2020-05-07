@@ -1,6 +1,8 @@
 
 ![Tasterheader](IMG-All/uoglogo.png)
 
+<iframe allow="autoplay; fullscreen" height="270" width="500" src="https://estream.glos.ac.uk/Embed.aspx?id=27347&amp;code=d3~fUfVNXi3BKXbLyG9LSTV8MxfhSnY" frameborder="0" allowfullscreen></iframe>
+
 Welcome to this activity for the BSc Applied Artificial Intelligence course at the University of Gloucestershire! This session will give you the chance to get a taste of what kind of work you may be doing as a student on this course.
 
 This GitHub Repository will take you through the steps you need to go through to create your own Dog Breed Image classifier using Machine Learning.
