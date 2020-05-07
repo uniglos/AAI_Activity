@@ -6,15 +6,14 @@ This GitHub Repository will take you through the steps you need to go through to
 We will do this using Google Colab, Python Notebooks and the FastAI library.
 
 ## Contact Points
-After the session, if you have any questions that you forgot to ask, feel free to email the following people with any queries regarding the BSc Applied Artificial Intelligence Course:
+During, or after the session, if you have any questions that you want to ask, feel free to email the following people with any queries regarding the BSc Applied Artificial Intelligence Course, or this activity:
 
 - **Dr. Will Sayers** : [wsayers@glos.ac.uk](mailto:wsayers@glos.ac.uk)
 - **Daniel McCluskey** : [dmccluskey1@glos.ac.uk](mailto:dmccluskey1@glos.ac.uk)
 
-## Tutorials
-List of tutorials for this session:
+## Tutorial
 
-1. [Google Colab Activity](https://colab.research.google.com/drive/11eKNC2xuJGvnbvTc6ux613QWszXPpOLS#scrollTo=jD2HjilnLztW)
+[Google Colab Activity](https://colab.research.google.com/drive/11eKNC2xuJGvnbvTc6ux613QWszXPpOLS#scrollTo=jD2HjilnLztW)
 
 ## Things to Try at home
 Here are some helpful links that will give you some more knowledge on the subjects we have gone through today.
