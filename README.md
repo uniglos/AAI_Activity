@@ -17,7 +17,7 @@ During or after the session, if you have any questions that you want to ask, fee
 [Google Colab Activity](https://colab.research.google.com/drive/11eKNC2xuJGvnbvTc6ux613QWszXPpOLS#scrollTo=jD2HjilnLztW)
 
 ## Things to Try at home
-Here are some helpful links that will give you some more knowledge on the subjects we have gone through today.
+Here are some helpful links that will give you some more knowledge on the subjects we have gone through as part of this activity.
 
 - [FastAI Website](https://www.fast.ai/)
 - [Kaggle Python Tutorial](https://www.kaggle.com/learn/python)
