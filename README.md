@@ -1,4 +1,5 @@
-![Tasterheader](IMG-All/tasterheader.png)
+
+![Tasterheader](IMG-All/uoglogo.png)
 
 Welcome to this activity for the BSc Applied Artificial Intelligence course at the University of Gloucestershire! This session will give you the chance to get a taste of what kind of work you may be doing as a student on this course.
 
@@ -26,4 +27,3 @@ Here are some helpful links that will give you some more knowledge on the subjec
 - [Python Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Introduction to SSH](https://www.hostinger.co.uk/tutorials/ssh-tutorial-how-does-ssh-work)
 
-![Tasterheader](IMG-All/uoglogo.png)
