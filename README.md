@@ -1,7 +1,7 @@
 
 ![Tasterheader](IMG-All/uoglogo.png)
 
-<iframe allow="autoplay; fullscreen" height="270" width="500" src="https://estream.glos.ac.uk/Embed.aspx?id=27347&amp;code=d3~fUfVNXi3BKXbLyG9LSTV8MxfhSnY" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://estream.glos.ac.uk/Media/Images/ClipData/27347.jpg?height=405)](https://estream.glos.ac.uk/View.aspx?id=27347~5k~cBWyC3GVUs&code=DI~fIAMabwqeKOkKPSYa6SuIRK4IyM5DxyHnvOoClySxTaG6KOEaSakOIB0GzyyNpoZHWfE&ax=7H~QAypUOEkrYbJII)
 
 Welcome to this activity for the BSc Applied Artificial Intelligence course at the University of Gloucestershire! This session will give you the chance to get a taste of what kind of work you may be doing as a student on this course.
 
